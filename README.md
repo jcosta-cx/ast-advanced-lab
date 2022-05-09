@@ -1,4 +1,4 @@
 # GH Demo
 
 
-Create a modification, direc to main
+Create a modification, direct to main, SAST only
